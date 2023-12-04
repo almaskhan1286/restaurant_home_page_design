@@ -1,8 +1,14 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Restaurant Home Page 
 
-Currently, two official plugins are available:
+Restaurant Home Page Design: A sleek and responsive web design showcasing an enticing and user-friendly interface for restaurant websites. Custom-built with modern UI/UX elements to elevate the online dining experience
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Portfolio Preview](src/assets/restuarant.png)
+
+
+Happy Chatting! 🚀
+
+## 🔗 Social Links:
+
+| [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almaskhann/) | [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/almas_khan1286) |
+| --- | --- |
